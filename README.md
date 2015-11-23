@@ -11,4 +11,5 @@ Anything you think might help. There is a lot on Design Patterns on line but wha
 
 ##Contents
 These will be added to as I transfer my notes online to this project
-1.
+1. How to throw more informative exceptions
+2. How to easily count the number of days in the year so far
