@@ -9,3 +9,6 @@ It's as pure and simple as me not using it before :) I have used Maven and Ant a
 ##What can be contributed?
 Anything you think might help. There is a lot on Design Patterns on line but what I want here is some of the mini-design patterns that you pick up after many hours of coding
 
+##Contents
+These will be added to as I transfer my notes online to this project
+1.
