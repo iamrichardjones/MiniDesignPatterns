@@ -2,7 +2,6 @@ package numbercounting;
 
 public class DayCounter {
 
-
     public static int getTotal(Integer num) {
         int total = 0;
         switch (num) {
