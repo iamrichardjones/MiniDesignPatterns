@@ -1,11 +1,11 @@
 package exceptionhandling;
 
 
-public class Person {
+public class ExceptionalPerson {
 
     private final String name;
 
-    public Person(String name) {
+    public ExceptionalPerson(String name) {
         if (name == null) {
             IllegalArgumentException iae = new IllegalArgumentException();
             iae.initCause(new NullPointerException());
