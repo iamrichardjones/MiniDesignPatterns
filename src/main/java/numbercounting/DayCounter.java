@@ -2,6 +2,7 @@ package numbercounting;
 
 public class DayCounter {
 
+    //assumes 28 days in February
     public static int getTotal(Integer num) {
         int total = 0;
         switch (num) {
