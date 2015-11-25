@@ -1,7 +1,10 @@
 package casestatement;
 
 /**
- * Created by jones on 24/11/2015.
+ * Most often case statements have a list of valid inputs then a default section. If there is a programmer error
+ * and the default section is called (and there is nothing entered in that part) then it can cause hard to find
+ * bugs later on.
+ * I recommend throwing an exception rather than having a blank default statement
  */
 public class CaseStatementRunner {
 
