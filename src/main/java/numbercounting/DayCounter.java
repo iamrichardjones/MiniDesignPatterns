@@ -1,5 +1,10 @@
 package numbercounting;
 
+/**
+ * This is showing how you can use fall-through and reversing the IDs (12 to 1) so that you can add up totals.
+ * An example is using months and get the days so far in a year. You can use this for any bucketting that has
+ * values you may want to add up though.
+ */
 public class DayCounter {
 
     //assumes 28 days in February
