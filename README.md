@@ -19,3 +19,4 @@ Just my philosophy so you can get to know who I am and if you want to help contr
 These will be added to as I transfer my notes online to this project
 * How to throw more informative exceptions
 * How to easily count the number of days in the year so far
+* A correct case statement design
