@@ -2,9 +2,6 @@ package casestatement;
 
 import org.junit.Test;
 
-/**
- * Created by jones on 24/11/2015.
- */
 public class CaseStatementRunnerTest {
 
     @Test (expected = IllegalArgumentException.class)
