@@ -16,4 +16,14 @@ public class NStepperTest {
 
         assertEquals(Arrays.<Integer>asList(0, 1, 2, 3, 4, 5), NStepper.getIntervals(1, 5));
     }
+
+    @Test (expected = IllegalArgumentException.class)
+    public void test_GetIntervals_Negative_Counter() {
+        NStepper.getIntervals(-1, 10);
+    }
+
+    @Test (expected = IllegalArgumentException.class)
+    public void test_GetIntervals_Negative_MaxValue() {
+        NStepper.getIntervals(1, -10);
+    }
 }

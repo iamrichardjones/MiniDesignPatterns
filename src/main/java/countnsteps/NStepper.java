@@ -7,7 +7,14 @@ import java.util.List;
 public class NStepper {
 
     public static List<Integer> getIntervals(Integer step, Integer maxValue) {
-        List<Integer> res = new ArrayList();
+        if (step < 1) {
+            throw new IllegalArgumentException(String.format("Negative step entered: %s", step));
+        }
+        if (maxValue < 1) {
+            throw new IllegalArgumentException(String.format("Negative maxValue entered: %s", maxValue));
+        }
+
+        List<Integer> res = new ArrayList<Integer>();
 
         for (int i = 0; i <= maxValue; i++) {
             if (i % step == 0) {
