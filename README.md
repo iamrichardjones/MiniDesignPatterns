@@ -3,6 +3,10 @@
 ##Why?
 I often mentor/coach more junior members of the software team so wanted use this project as a basis for presenting to graduates
 
+Please please please along with this project read more on Design Patterns
+
+*Code can and should be elegant*
+
 ##Why Gradle?
 It's as pure and simple as me not using it before :smile: I have used Maven and Ant and thought I would try the new kid on the block
 
@@ -20,3 +24,4 @@ These will be added to as I transfer my notes online to this project
 * How to throw more informative exceptions
 * How to easily count the number of days in the year so far
 * A correct case statement design
+* How to count in steps of n
