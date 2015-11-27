@@ -6,7 +6,7 @@ import java.util.List;
 
 public class NStepper {
 
-    public static List<Integer> counter(Integer step, Integer maxValue) {
+    public static List<Integer> getIntervals(Integer step, Integer maxValue) {
         List<Integer> res = new ArrayList();
 
         for (int i = 0; i <= maxValue; i++) {
