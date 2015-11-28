@@ -1,4 +1,4 @@
-# TipsAndTricks
+# Mini-Design Patterns
 
 ##Why?
 I often mentor/coach more junior members of the software team so wanted use this project as a basis for presenting to graduates.
@@ -28,10 +28,11 @@ Just my philosophy so you can get to know who I am and if you want to help contr
 
 ##Contents
 These will be added to as I transfer my notes online to this project
-* How to throw more informative exceptions
-* How to easily count the number of days in the year so far
-* A correct case statement design
-* How to count in steps of n
-* Populating Maps/Lists
-* How to write unit tests that read files without having external dependencies on files (todo)
-* InstanceIds (todo)
+
+1 How to throw more informative exceptions
+2 How to easily count the number of days in the year so far
+3 A correct case statement design
+4 How to count in steps of n
+5 Populating Maps/Lists
+6 How to write unit tests that read files without having external dependencies on files (todo)
+7 InstanceIds (todo)
