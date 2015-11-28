@@ -25,3 +25,4 @@ These will be added to as I transfer my notes online to this project
 * How to easily count the number of days in the year so far
 * A correct case statement design
 * How to count in steps of n
+* Populating Maps/Lists
