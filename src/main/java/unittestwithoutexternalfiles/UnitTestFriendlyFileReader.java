@@ -1,10 +1,15 @@
 package unittestwithoutexternalfiles;
 
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This mini-design-pattern users an overloaded constructor to enable the coder to pass in
+ * contents from a BufferedReader rather than a file. This means that the coder does not need
+ * to manager test file resources. They can simply test the class and methods (in this case
+ * readLines()) uses resources inside the java class
+ */
 public class UnitTestFriendlyFileReader {
 
     private final BufferedReader reader;
