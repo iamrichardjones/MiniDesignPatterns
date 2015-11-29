@@ -34,5 +34,5 @@ These will be added to as I transfer my notes online to this project
 3. A correct case statement design
 4. How to count in steps of n
 5. Populating Maps/Lists
-6. How to write unit tests that read files without having external dependencies on files (todo)
+6. How to write unit tests that read files without having external dependencies on files
 7. InstanceIds (todo)
