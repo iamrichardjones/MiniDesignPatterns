@@ -6,7 +6,7 @@ public class PersonId extends Identifiable {
         super(id);
     }
 
-    public static PersonId getInstance(Integer id) {
+    public static PersonId get(Integer id) {
         return new PersonId(id);
     }
 }

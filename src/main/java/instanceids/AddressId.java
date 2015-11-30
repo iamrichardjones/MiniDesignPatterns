@@ -6,7 +6,7 @@ public class AddressId extends Identifiable {
         super(id);
     }
 
-    public static AddressId getInstance(Integer id) {
+    public static AddressId get(Integer id) {
         return new AddressId(id);
     }
 }
