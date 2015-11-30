@@ -7,11 +7,11 @@ package instanceids;
  * that for constructors with many parameters the instnaceid pattern makes it explicit which parameters do
  * what. Consider:
  *
- * new MyClass(1,2,3,4,5,6,7)
+ * new MyClass(1, 2, 3, 4, 5, 6)
  *
  * compared to
  *
- * new MyClass(PersonId.get(1), AddressId.get(2), GenderId.get(3),JobId.get(4),CarId.get(5),RaceId.get(6),EthnicId.get(7));
+ * new MyClass(PersonId.get(1), AddressId.get(2), GenderId.get(3), JobId.get(4), RaceId.get(5), EthnicId.get(6));
  *
  * The second is a lot more explicit for not much more code and allows the reviewer to easily see what
  * is happening
