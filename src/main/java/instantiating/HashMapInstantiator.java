@@ -4,7 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Google Guava has a very nice ArrayList class that allow you to instantiate the ArrayList using paramteres
+ * Google Guava has a very nice ArrayList class that allow you to instantiate the
+ * @see <a href="http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/collect/Lists.html#newArrayList(E...)">ArrayList</a> using paramteres
  * to the constructor. This makes it very easy for the reviewer to see what is contained within the
  * ArrayList right after instantiation. There is no effort between finding the instantiation and the initialisation
  *
