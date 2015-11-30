@@ -4,7 +4,7 @@ package instanceids;
  * This mini-design-pattern is an alternative to the Builder Pattern. Rather than constantly returning this
  * and having methods for each parameter we can use this InstanceId pattern. Unlike the builder it enforces
  * that all the parameters of the constructor are set as the coder builds the constructor. It also ensures
- * that for constructors with many parameters the instnaceid pattern makes it explicit which parameters do
+ * that for constructors with many parameters the instanceId pattern makes it explicit which parameters do
  * what. Consider:
  *
  * new MyClass(1, 2, 3, 4, 5, 6)
