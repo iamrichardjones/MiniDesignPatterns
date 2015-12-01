@@ -1,7 +1,8 @@
 package numbercounting;
 
 /**
- * This is showing how you can use fall-through and reversing the IDs (12 to 1) so that you can add up totals.
+ * This mini-design-pattern is showing how you can use fall-through and reversing the IDs (in this case 12 to 1)
+ * so that you can add up totals.
  * An example is using months and get the days so far in a year. You can use this for any bucketting that has
  * values you may want to add up though.
  */
@@ -22,7 +23,9 @@ public class DayCounter {
             case 4:  total += 30;
             case 3:  total += 31;
             case 2:  total += 28;
-            case 1:  total += 31;
+            case 1:  total += 31; break;
+            default: throw new IllegalArgumentException(String.format("Invalid input %s", num));
+
         }
 
         return total;

@@ -13,4 +13,16 @@ public class DayCounterTest {
                      "Jul (31) + Aug (31) + Sep (30) + Oct + Nov (30) + Dec (31)",
                 365, DayCounter.getTotal(12));
     }
+
+    //see ExceptionHandling package
+    @Test(expected = IllegalArgumentException.class)
+    public void test_Count_EdgeCases_Lower() {
+        DayCounter.getTotal(0);
+    }
+
+    //see ExceptionHandling package
+    @Test(expected = IllegalArgumentException.class)
+    public void test_Count_EdgeCases_Higher() {
+        DayCounter.getTotal(13);
+    }
 }
