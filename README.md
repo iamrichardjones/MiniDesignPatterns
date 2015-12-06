@@ -1,13 +1,13 @@
 # Mini-Design Patterns
 
 ##Why?
-I often mentor/coach more junior members of the software team so wanted use this project as a basis for presenting to graduates/juniors some cute designs I have learnt or used.
+I often mentor/coach more junior members of the software team so wanted to use this project as a basis for presenting to juniors some _cute_ designs I have learnt or used.
 
 ##Why Gradle?
 It's as pure and simple as me not using it before :smile: I have used Maven and Ant and thought I would try the new kid on the block (at least new to me :wink:)
 
 ##What can be contributed?
-Anything you think might help. There are a lot on Design Patterns online but what I want here is some of the *mini-design patterns* that you pick up after many hours of coding
+Anything you think might help. There are a lot on Design Patterns online but what I want here is some of the *mini-design patterns* that you pick up after many hours of coding and working with different people.
 
 ##My Coding Mantra
 There are some coders that believe the more complex the code the better they are. This can be especially prevalent in more junior
