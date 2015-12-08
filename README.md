@@ -37,4 +37,4 @@ These will be added to as I transfer my notes online to this project
 6. How to write unit tests that read files without having external dependencies on files
 7. InstanceIds
 8. String formatting in Exceptions
-9. Pair and Triplet (ongoing)
+9. Pair and Triplet (on-going)
