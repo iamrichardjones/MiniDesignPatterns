@@ -38,4 +38,4 @@ These will be added to as I transfer my notes online to this project
 7. InstanceIds
 8. String formatting in Exceptions
 9. Pair and Triplet
-10. Check exceptions are gracefully handled (todo)
+10. Check exceptions are gracefully handled
