@@ -1,6 +1,9 @@
 package formattingexceptions;
 
-
+/**
+ * String formatting is very powerful. This class allows the user to use String.format
+ * within the exception to give the message more meaning.
+ */
 public class FormattedException extends Exception {
 
     public FormattedException(String msg, String format) {
