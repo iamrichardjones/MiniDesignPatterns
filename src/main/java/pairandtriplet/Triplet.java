@@ -9,7 +9,7 @@ package pairandtriplet;
  * in a more "coder friendly" way. They are simple one, two, and three.
  *
  * Here I am making the parameters public so the coder can access them in a simpler form. It may go against convention
- * but they are final so I feel this is ok (although feel free to disagree ;)
+ * but they are final so I feel this is ok (although feel free to disagree ;) )
  */
 public class Triplet<K, U, V> {
 
