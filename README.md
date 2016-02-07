@@ -23,7 +23,7 @@ Please please please along with this project read more on Design Patterns
 
 Just my philosophy so you can get to know who I am and if you want to help contribute to this project
 * Do **not** commit code after midday on a Friday. Review again on Monday and see what mistakes you made at the end of the week
-* Keep things simple. If they are getting too complicated then divide and conquer
+* Keep things simple. If they are getting too complicated then divide and conquer. Logic at its most basic level is quite simple. 
 * Unit test everything!
 
 ##Contents
