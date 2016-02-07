@@ -25,7 +25,6 @@ public class DayCounter {
             case 2:  total += 28;
             case 1:  total += 31; break;
             default: throw new IllegalArgumentException(String.format("Invalid input %s", num));
-
         }
 
         return total;
