@@ -9,6 +9,8 @@ import java.util.List;
  * contents from a BufferedReader rather than a file. This means that the coder does not need
  * to manager test file resources. They can simply test the class and methods (in this case
  * readLines()) uses resources inside the java class
+ *
+ * For a clearer example see UnitTestFriendlyFileReaderTest.java
  */
 public class UnitTestFriendlyFileReader {
 
