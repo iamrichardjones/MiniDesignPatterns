@@ -25,6 +25,7 @@ Just my philosophy so you can get to know who I am and if you want to help contr
 * Do **not** commit code after midday on a Friday. Review again on Monday and see what mistakes you made at the end of the week
 * Keep things simple. If they are getting too complicated then divide and conquer. Logic at its most basic level is quite simple. 
 * Unit test everything!
+* Always ask for help if needed. Even just talking about a problem can make it clearer
 
 ##Contents
 These will be added to as I transfer my notes online to this project
