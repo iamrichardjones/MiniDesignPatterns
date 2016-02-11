@@ -13,7 +13,7 @@ Anything you think might help. There are a lot on Design Patterns online but I t
 There are some coders that believe the more complex the code the better they are. This can be especially prevalent in more junior
 developers. This is the complete opposite of my thought process.
 If you are over complicating a problem then you are making it hard for others to read, making it hard for others to maintain and
-actually showing your fellow workmates that  you do not have very clear thought processes. After logic is logic and should and 
+actually showing your fellow workmates that  you do not have very clear thought processes. After all logic is logic and should and 
 can be broken down into discrete simple chunks. Code should be simple and easily read. Other people should read your code and 
 without hard thinking or head scratching see what is happening and as a bonus even learn some *mini-design patterns*
 
