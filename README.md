@@ -41,3 +41,4 @@ These will be added to as I transfer my notes online to this project
 9. Pair and Triplet
 10. Check exceptions are gracefully handled
 11. Checking if A equals B or A equals C or A equals D
+12. Translation Numbers
